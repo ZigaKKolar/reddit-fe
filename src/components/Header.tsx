@@ -15,9 +15,10 @@ const Header = () => {
                         <div className="col-sm-4 offset-md-1 py-4">
                             <h4>Contact</h4>
                             <ul className="list-unstyled">
-                                <li><a href="#" className="text-white">Follow on Twitter</a></li>
-                                <li><a href="#" className="text-white">Like on Facebook</a></li>
-                                <li><a href="#" className="text-white">Email me</a></li>
+                                <li><a href="/" className="text-white">Home</a></li>
+                                <li><a href="/login" className="text-white">Login</a></li>
+                                <li><a href="/register" className="text-white">Register</a></li>
+                                <li><a href="/sub" className="text-white">Subreddits</a></li>
                             </ul>
                         </div>
                     </div>
